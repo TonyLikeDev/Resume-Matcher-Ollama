@@ -8,6 +8,8 @@ It extracts text from PDF/Images and uses a local LLM (`llama3`) to compare skil
 - [Features](#features)
 - [Tech Stack](#tech-stack)
 - [Setup](#setup)
+- [Note](#notes)
+- [Future Inprovements](#future-improvements)
 
 ## Features
 - Upload resume (PDF / PNG / JPG)
@@ -49,3 +51,20 @@ It extracts text from PDF/Images and uses a local LLM (`llama3`) to compare skil
     
     streamlit run Resume_Matcher.py
     
+## Notes (for create a public server)
+
+Keep your .env file private (create and put file in .gitignore).
+
+Hugging Face / API tokens should never be committed.
+
+If GitHub blocks push due to secrets, clean your history using git filter-repo.
+
+## Future Improvements
+
+Integrate semantic similarity scoring with sentence-transformers.
+
+Add support for multiple resumes vs one job description.
+
+Generate visual graphs of skill matching.
+
+Deploy on cloud with Docker.( On-going )
