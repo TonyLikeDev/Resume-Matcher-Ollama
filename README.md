@@ -75,3 +75,8 @@ Add support for multiple resumes vs one job description.
 Generate visual graphs of skill matching.
 
 Deploy on cloud with Docker. ( On-going )
+
+
+
+After finish this project I found out that it have been done by srbhr and his team and it 10 billion times better than mine 🤣
+Here the link to his Prj: https://github.com/srbhr/Resume-Matcher
