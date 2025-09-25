@@ -32,12 +32,12 @@ Setup
   Then pull the llama3 model:
     bash:
     
-    ollama pull llama3
+       ollama pull llama3
 
   Run the Ollama server (it runs on [ localhost:11434 ]  by default):
     bash:
     
-    ollama serve
+       ollama serve
 
 4. Run Streamlit app:
     ```
