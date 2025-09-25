@@ -8,7 +8,7 @@ It extracts text from PDF/Images and uses a local LLM (`llama3`) to compare skil
 - [Features](#features)
 - [Tech Stack](#tech-stack)
 - [Setup](#setup)
-- [Note](#notes)
+- [Notes](#notes-for-create-a-public-server)
 - [Future Inprovements](#future-improvements)
 
 ## Features
