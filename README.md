@@ -70,4 +70,4 @@ Add support for multiple resumes vs one job description.
 
 Generate visual graphs of skill matching.
 
-Deploy on cloud with Docker.( On-going )
+Deploy on cloud with Docker. ( On-going )
