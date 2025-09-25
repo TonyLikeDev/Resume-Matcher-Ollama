@@ -1,7 +1,11 @@
+###### Just a quick project I do overnight so it not very good
+
+
+
 # Resume Matcher (Ollama Local AI)
 
 This project helps analyze resumes against job descriptions using **local AI (Ollama)**.  
-It extracts text from PDF/Images and uses a local LLM (`llama3`) to compare skills, experience, and relevance.  
+It extracts text from PDF/Images and uses a local LLM (`llama3`) to compare skills, experience, and relevance. 
 
 <img width="553" height="588" alt="Screenshot 2025-09-26 055348" src="https://github.com/user-attachments/assets/79c3ed6c-204b-44b3-b2f3-450edc8221fb" />
 ....
