@@ -31,14 +31,10 @@ Setup
   - Download Ollama from Ollama.ai and install it.
   - Then pull the llama3 model:
     ```bash:
-    
        ollama pull llama3
-
   - Run the Ollama server (it runs on [ localhost:11434 ]  by default):
     ```bash:
-    
        ollama serve
-
 4. Run Streamlit app:
     ```
     streamlit run Resume_Matcher.py
